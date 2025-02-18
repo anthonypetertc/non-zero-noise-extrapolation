@@ -1,0 +1,19 @@
+{
+  "description": "Random 2D quantum circuit on 25 qubits, consisting of 30\nlayers of: Haar-random single-qubit gates on all qubits followed by controlled-Z gates on all neighbouring\npairs of qubits, applied to the all-zeros initial state",
+  "data": {
+    "0.01": 2.921539593160313e-19,
+    "0.02": 0.0004831647263846477,
+    "0.03": 0.011165828929407503,
+    "0.04": 0.11895238584113373,
+    "0.05": 0.24979563422124723,
+    "0.06": 0.4674941894270731,
+    "0.07": 0.6742218682729697,
+    "0.08": 0.8164143697372102,
+    "0.09": 0.9030243471589996,
+    "0.1": 0.9523764833315058,
+    "0.11": 0.977303857085887,
+    "0.12": 0.9890942486531049,
+    "0.13": 0.9947074561382208,
+    "0.14": 0.9974762706064986
+  }
+}

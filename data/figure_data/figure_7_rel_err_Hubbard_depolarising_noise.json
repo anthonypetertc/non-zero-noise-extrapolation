@@ -1,0 +1,21 @@
+{
+  "description": "Relative errors of NZNE vs. single emulation. Hubbard model at noise strength 0.001",
+  "data": {
+    "relative_err_nzne": {
+      "0.1378": -0.0678,
+      "0.2919": -0.0107,
+      "0.517": -0.0155,
+      "0.7384": -0.013,
+      "0.8878": -0.0092,
+      "0.961": -0.0021
+    },
+    "relative_err_single_emulation": {
+      "0.1378": 0.1725,
+      "0.2919": 0.1221,
+      "0.517": 0.0735,
+      "0.7384": 0.0332,
+      "0.8878": 0.0085,
+      "0.961": 0.0016
+    }
+  }
+}
